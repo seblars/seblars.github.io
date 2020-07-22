@@ -1,8 +1,8 @@
 ---
 layout: default
 title: About
-# permalink: /about/
-# includelink: true
+permalink: /about/
+includelink: true
 ---
 # About page
 

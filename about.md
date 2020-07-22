@@ -1,5 +1,6 @@
+---
 layout: page
-title: "Contact"
+title: About
 permalink: /about/
-
-# about me
+includelink: true
+---
